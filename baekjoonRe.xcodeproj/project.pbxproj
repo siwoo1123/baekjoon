@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1898BA732A4FFD630072E342 /* 1743 음식물 피하기(bfs).cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1898BA722A4FFD630072E342 /* 1743 음식물 피하기(bfs).cpp */; };
+		1898BA752A500B070072E342 /* 1926 그림.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1898BA742A500B070072E342 /* 1926 그림.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		1898BA722A4FFD630072E342 /* 1743 음식물 피하기(bfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1743 음식물 피하기(bfs).cpp"; sourceTree = "<group>"; };
+		1898BA742A500B070072E342 /* 1926 그림.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1926 그림.cpp"; sourceTree = "<group>"; };
 		18CFA5FD2A4FF429003380ED /* baekjoonRe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = baekjoonRe; sourceTree = BUILT_PRODUCTS_DIR; };
 		18CFA6072A4FF45B003380ED /* 2589 보물섬.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2589 보물섬.cpp"; sourceTree = "<group>"; };
 		18CFA6082A4FF45C003380ED /* 1012 유기농 배추.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1012 유기농 배추.cpp"; sourceTree = "<group>"; };
@@ -92,6 +93,7 @@
 				18CFA6152A4FF45E003380ED /* 11724 연결요소의 개수.cpp */,
 				18CFA6272A4FF4BB003380ED /* 1743 음식물 피하기(dfs).cpp */,
 				1898BA722A4FFD630072E342 /* 1743 음식물 피하기(bfs).cpp */,
+				1898BA742A500B070072E342 /* 1926 그림.cpp */,
 			);
 			path = baekjoonRe;
 			sourceTree = "<group>";
@@ -153,7 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1898BA732A4FFD630072E342 /* 1743 음식물 피하기(bfs).cpp in Sources */,
+				1898BA752A500B070072E342 /* 1926 그림.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
