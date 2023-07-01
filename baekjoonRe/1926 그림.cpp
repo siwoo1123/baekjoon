@@ -8,7 +8,7 @@ int dy[] = {-1,1,0,0};
 
 void dfs(int x, int y)
 {
-    tmp++;
+    tmp++; 
     v[x][y]=0;
     for(int i=0;i<4;i++)
     {
