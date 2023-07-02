@@ -12,7 +12,7 @@ void dfs(int x, int y)
     v[x][y]=0;
     for(int i=0;i<4;i++)
     {
-        if(v[x+dx[i]][y+dy[i]]==1)
+        if(v[x+dx[i]][y+dy[i]]==1)  
         { 
             dfs(x+dx[i], y+dy[i]);
         }
