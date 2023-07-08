@@ -22,6 +22,10 @@
 		1898BA722A4FFD630072E342 /* 1743 음식물 피하기(bfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1743 음식물 피하기(bfs).cpp"; sourceTree = "<group>"; };
 		1898BA742A500B070072E342 /* 1926 그림.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1926 그림.cpp"; sourceTree = "<group>"; };
 		18A1488C2A51B4A9003BC1F9 /* 22342 계산 로봇.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "22342 계산 로봇.cpp"; sourceTree = "<group>"; };
+		18A148A12A58ED68003BC1F9 /* 15649 N과 M (1).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15649 N과 M (1).cpp"; sourceTree = "<group>"; };
+		18A148A32A58FD00003BC1F9 /* 15650 N과 M (2).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15650 N과 M (2).cpp"; sourceTree = "<group>"; };
+		18A148A62A58FDD6003BC1F9 /* 15651 N과 M (3).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15651 N과 M (3).cpp"; sourceTree = "<group>"; };
+		18A148A82A58FE59003BC1F9 /* 15652 N과 M (4).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15652 N과 M (4).cpp"; sourceTree = "<group>"; };
 		18CFA5FD2A4FF429003380ED /* baekjoonRe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = baekjoonRe; sourceTree = BUILT_PRODUCTS_DIR; };
 		18CFA6072A4FF45B003380ED /* 2589 보물섬.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2589 보물섬.cpp"; sourceTree = "<group>"; };
 		18CFA6082A4FF45C003380ED /* 1012 유기농 배추.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1012 유기농 배추.cpp"; sourceTree = "<group>"; };
@@ -92,6 +96,10 @@
 				1898BA722A4FFD630072E342 /* 1743 음식물 피하기(bfs).cpp */,
 				1898BA742A500B070072E342 /* 1926 그림.cpp */,
 				18A1488C2A51B4A9003BC1F9 /* 22342 계산 로봇.cpp */,
+				18A148A12A58ED68003BC1F9 /* 15649 N과 M (1).cpp */,
+				18A148A32A58FD00003BC1F9 /* 15650 N과 M (2).cpp */,
+				18A148A62A58FDD6003BC1F9 /* 15651 N과 M (3).cpp */,
+				18A148A82A58FE59003BC1F9 /* 15652 N과 M (4).cpp */,
 			);
 			path = baekjoonRe;
 			sourceTree = "<group>";
