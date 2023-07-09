@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int n,len,i,j;
+unsigned long n,len,i,j;
 char arr[55][55];
 bool flag;
 
