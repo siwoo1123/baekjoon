@@ -19,6 +19,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		180901962A874F540050B13D /* 2573 빙산.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2573 빙산.cpp"; sourceTree = "<group>"; };
+		180901982A875E020050B13D /* 2458 키 순서.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2458 키 순서.cpp"; sourceTree = "<group>"; };
 		1817F5182A6034C7002490B5 /* 11279 최대 힙.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "11279 최대 힙.cpp"; sourceTree = "<group>"; };
 		1817F51C2A614EC3002490B5 /* 11720 숫자의 합.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "11720 숫자의 합.cpp"; sourceTree = "<group>"; };
 		1817F5222A6236E8002490B5 /* 8983 사냥꾼.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8983 사냥꾼.cpp"; sourceTree = "<group>"; };
@@ -66,6 +68,8 @@
 		18CFA6152A4FF45E003380ED /* 11724 연결요소의 개수.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "11724 연결요소의 개수.cpp"; sourceTree = "<group>"; };
 		18CFA6162A4FF45E003380ED /* 2178 미로 탐색.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2178 미로 탐색.cpp"; sourceTree = "<group>"; };
 		18CFA6272A4FF4BB003380ED /* 1743 음식물 피하기(dfs).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1743 음식물 피하기(dfs).cpp"; sourceTree = "<group>"; };
+		18D8BCAE2A8280930064AEA8 /* 28323 불안정한 수열.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "28323 불안정한 수열.cpp"; sourceTree = "<group>"; };
+		18D8BCB22A8347EF0064AEA8 /* 28324 스케이트 연습.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "28324 스케이트 연습.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +148,10 @@
 				1817F5222A6236E8002490B5 /* 8983 사냥꾼.cpp */,
 				1821B3882A6CE3980037F18F /* 2583 영역 구하기.cpp */,
 				1877A03F2A778FB200574B43 /* 1931 회의실 배정.cpp */,
+				18D8BCAE2A8280930064AEA8 /* 28323 불안정한 수열.cpp */,
+				18D8BCB22A8347EF0064AEA8 /* 28324 스케이트 연습.cpp */,
+				180901962A874F540050B13D /* 2573 빙산.cpp */,
+				180901982A875E020050B13D /* 2458 키 순서.cpp */,
 			);
 			path = baekjoonRe;
 			sourceTree = "<group>";
