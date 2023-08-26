@@ -21,6 +21,10 @@
 /* Begin PBXFileReference section */
 		180901962A874F540050B13D /* 2573 빙산.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2573 빙산.cpp"; sourceTree = "<group>"; };
 		180901982A875E020050B13D /* 2458 키 순서.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2458 키 순서.cpp"; sourceTree = "<group>"; };
+		1809019A2A876B620050B13D /* 2668 숫자고르기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2668 숫자고르기.cpp"; sourceTree = "<group>"; };
+		1809019C2A8871060050B13D /* 16139 인간-컴퓨터 상호작용.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "16139 인간-컴퓨터 상호작용.cpp"; sourceTree = "<group>"; };
+		180901B32A908C8D0050B13D /* 17616 등수 찾기.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "17616 등수 찾기.cpp"; sourceTree = "<group>"; };
+		180901B52A909B8D0050B13D /* 2629 양팔 저울.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2629 양팔 저울.cpp"; sourceTree = "<group>"; };
 		1817F5182A6034C7002490B5 /* 11279 최대 힙.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "11279 최대 힙.cpp"; sourceTree = "<group>"; };
 		1817F51C2A614EC3002490B5 /* 11720 숫자의 합.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "11720 숫자의 합.cpp"; sourceTree = "<group>"; };
 		1817F5222A6236E8002490B5 /* 8983 사냥꾼.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8983 사냥꾼.cpp"; sourceTree = "<group>"; };
@@ -102,6 +106,7 @@
 		18CFA5FF2A4FF429003380ED /* baekjoonRe */ = {
 			isa = PBXGroup;
 			children = (
+				180901B32A908C8D0050B13D /* 17616 등수 찾기.cpp */,
 				1821B3B52A6CF3F20037F18F /* 13023 ABCDE.cpp */,
 				18CFA60D2A4FF45D003380ED /* 1010 다리 놓기.cpp */,
 				18CFA6082A4FF45C003380ED /* 1012 유기농 배추.cpp */,
@@ -152,6 +157,9 @@
 				18D8BCB22A8347EF0064AEA8 /* 28324 스케이트 연습.cpp */,
 				180901962A874F540050B13D /* 2573 빙산.cpp */,
 				180901982A875E020050B13D /* 2458 키 순서.cpp */,
+				1809019A2A876B620050B13D /* 2668 숫자고르기.cpp */,
+				1809019C2A8871060050B13D /* 16139 인간-컴퓨터 상호작용.cpp */,
+				180901B52A909B8D0050B13D /* 2629 양팔 저울.cpp */,
 			);
 			path = baekjoonRe;
 			sourceTree = "<group>";
@@ -274,6 +282,7 @@
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
+				WARNING_CFLAGS = "-w";
 			};
 			name = Debug;
 		};
@@ -325,6 +334,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
+				WARNING_CFLAGS = "-w";
 			};
 			name = Release;
 		};
