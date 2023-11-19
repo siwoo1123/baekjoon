@@ -73,6 +73,10 @@
 		18B0B3592B084EC700251964 /* 11404 플로이드.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "11404 플로이드.cpp"; sourceTree = "<group>"; };
 		18B0B35B2B08562A00251964 /* 11403 경로 찾기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "11403 경로 찾기.cpp"; sourceTree = "<group>"; };
 		18B0B35D2B0858E100251964 /* 1956 운동.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1956 운동.cpp"; sourceTree = "<group>"; };
+		18B0B35F2B088A2D00251964 /* 10986 나머지 합.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10986 나머지 합.cpp"; sourceTree = "<group>"; };
+		18B0B3612B09B0EA00251964 /* 18352 특정 거리의 도시 찾기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "18352 특정 거리의 도시 찾기.cpp"; sourceTree = "<group>"; };
+		18B0B3632B09E27E00251964 /* 13168 내일로 여행.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "13168 내일로 여행.cpp"; sourceTree = "<group>"; };
+		18B0B3652B09F2FA00251964 /* 1504 특정한 최단 경로.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1504 특정한 최단 경로.cpp"; sourceTree = "<group>"; };
 		18CFA5FD2A4FF429003380ED /* baekjoonRe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = baekjoonRe; sourceTree = BUILT_PRODUCTS_DIR; };
 		18CFA6072A4FF45B003380ED /* 2589 보물섬.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2589 보물섬.cpp"; sourceTree = "<group>"; };
 		18CFA6082A4FF45C003380ED /* 1012 유기농 배추.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1012 유기농 배추.cpp"; sourceTree = "<group>"; };
@@ -198,6 +202,10 @@
 				18B0B3592B084EC700251964 /* 11404 플로이드.cpp */,
 				18B0B35B2B08562A00251964 /* 11403 경로 찾기.cpp */,
 				18B0B35D2B0858E100251964 /* 1956 운동.cpp */,
+				18B0B35F2B088A2D00251964 /* 10986 나머지 합.cpp */,
+				18B0B3612B09B0EA00251964 /* 18352 특정 거리의 도시 찾기.cpp */,
+				18B0B3632B09E27E00251964 /* 13168 내일로 여행.cpp */,
+				18B0B3652B09F2FA00251964 /* 1504 특정한 최단 경로.cpp */,
 			);
 			path = baekjoonRe;
 			sourceTree = "<group>";
